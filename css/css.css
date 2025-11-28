@@ -2,3 +2,12 @@ p{
     text-align: center;
     color:  red
 }
+
+h1{
+    border-radius: 50px;
+}
+h2{
+    text-align: center;
+    color: blue;
+    border: 50px;
+}
